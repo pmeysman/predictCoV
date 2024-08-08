@@ -1,0 +1,2 @@
+v_call	junction_aa	j_call	cloneCount	cloneFraction	Epitope	Score
+TRAV23DV6	CAAIRAGSSNTGKLIF	TRAJ37	1.0	1.0	ILDTAGKEEY	0.16063433522883527

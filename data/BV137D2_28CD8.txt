@@ -1,0 +1,2 @@
+allVHitsWithScore	aaSeqCDR3	allJHitsWithScore	cloneCount	cloneFraction
+TRAV23DV6	CAAIRAGSSNTGKLIF	TRAJ37	1.0	1.0

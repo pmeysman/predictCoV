@@ -1,0 +1,1 @@
+v_call	junction_aa	j_call	cloneCount	cloneFraction	Epitope	Score
